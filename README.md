@@ -4,4 +4,4 @@
  
 ## Overview
 
-[!App dark](https://github.com/Amilcar-Paco/flutter_theme_switcher/blob/master/overview/dark.jpg) [!App light](https://github.com/Amilcar-Paco/flutter_theme_switcher/blob/master/overview/light.jpg)
+[!App dark](/overview/dark.jpg) [!App light](/overview/light.jpg)
