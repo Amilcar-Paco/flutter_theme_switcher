@@ -5,4 +5,4 @@
 ## Overview
 
 
-![alt text](https://github.com/Amilcar-Paco/flutter_theme_switcher/blob/master/overview/dark.jpg?raw=true)
+![alt dark](https://github.com/Amilcar-Paco/flutter_theme_switcher/blob/master/overview/dark.jpg?raw=true) ![alt light](https://github.com/Amilcar-Paco/flutter_theme_switcher/blob/master/overview/light.jpg?raw=true)
