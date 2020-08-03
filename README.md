@@ -4,4 +4,5 @@
  
 ## Overview
 
-[!App dark](/overview/dark.jpg) [!App light](/overview/light.jpg)
+
+![alt text](https://github.com/Amilcar-Paco/flutter_theme_switcher/blob/master/overview/dark.jpg?raw=true)
